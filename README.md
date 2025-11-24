@@ -7,11 +7,7 @@ El objetivo principal es demostrar la implementación de **patrones de diseño e
 ## 🖼️ Vista Previa
 
 
-![Captura de pantalla de la pantalla de inicio de la aplicación de películas](h## 🖼️ Vista Previa
-
-¡Echa un vistazo a la aplicación en acción!
-
-![Captura de pantalla de la pantalla de inicio de la aplicación de películas](https://github.com/Jota2725/TMDB-Movies-app/blob/main/assets/screenshot_home.png?raw=true))
+![Captura de pantalla de la pantalla de inicio de la aplicación de películas](https://github.com/Jota2725/TMDB-Movies-app/blob/main/assets/home_page.png?raw=true)
 
 ##  Características Destacadas
 
