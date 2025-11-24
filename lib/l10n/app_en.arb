@@ -1,0 +1,11 @@
+{
+  "popularMoviesTitle": "TMDB Popular Movies",
+  "searchMovies": "Search Movies",
+  "filterByGenre": "Filter by Genre",
+  "clearAll": "Clear All",
+  "applyFilters": "Apply Filters",
+  "noMoviesFound": "No movies found",
+  "movieDetailsTitle": "Movie Details",
+  "overview": "Overview",
+  "error": "Error: {error}"
+}
