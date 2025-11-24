@@ -4,6 +4,15 @@
 
 El objetivo principal es demostrar la implementación de **patrones de diseño escalables** y funcionalidades de UX avanzadas en una arquitectura limpia, utilizando **Riverpod** para la gestión de estado.
 
+## 🖼️ Vista Previa
+
+
+![Captura de pantalla de la pantalla de inicio de la aplicación de películas](h## 🖼️ Vista Previa
+
+¡Echa un vistazo a la aplicación en acción!
+
+![Captura de pantalla de la pantalla de inicio de la aplicación de películas](https://github.com/Jota2725/TMDB-Movies-app/blob/main/assets/screenshot_home.png?raw=true))
+
 ##  Características Destacadas
 
 * **Arquitectura:** Implementación completa del patrón de gestión de estado **Riverpod** (StateNotifier/AsyncNotifier) para un código más robusto, seguro y testeable.
@@ -64,5 +73,5 @@ Siéntete libre de clonar, revisar y usar este código. ¡Las *pull requests* so
 ---
 ## 👤 Autor
 
-* **Tu Nombre/Usuario:** [@Jota2725]
-* **LinkedIn:** [www.linkedin.com/in/julian-tirado]
+* **Julian Tirado:** [@Jota2725](https://github.com/Jota2725)
+* **LinkedIn:** [julian-tirado](https://www.linkedin.com/in/julian-tirado)
